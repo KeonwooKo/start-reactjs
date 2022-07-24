@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/start-reactjs/static/js/main.cc320c44.js",
+    "index.html": "/start-reactjs/index.html",
+    "main.cc320c44.js.map": "/start-reactjs/static/js/main.cc320c44.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cc320c44.js"
+  ]
+}
